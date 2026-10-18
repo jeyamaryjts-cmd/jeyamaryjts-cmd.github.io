@@ -13,9 +13,10 @@ My research focuses on antenna design, THz photonics, and physical-layer wireles
 
 ## 🔬 Research Interests
 
-*   **Antenna Design & Optimization:** Monopole antennas, S-Band patch antennas, and compact multi-band structures.
-*   **THz Photonics & Polarizers:** Nickel wire-grid polarizers, nanoimprint-guided electroforming, and FDTD simulation (MEEP).
-*   **Wireless Communications:** Diversity techniques (MRC), channel estimation (MMSE), and physical layer reliability.
+*   **Wireless Communication:** Physical-layer reliability, diversity combining, and channel estimation.
+*   **MIMO Systems:** Spatial multiplexing, antenna design, and spatial correlation analysis.
+*   **Integrated Sensing and Communications (ISAC):** Next-generation joint radar-communication systems.
+*   **Electromagnetic Information Theory:** Bridging electromagnetic wave theory with information theory.
 
 ## 📄 Publications
 
@@ -33,4 +34,4 @@ My research focuses on antenna design, THz photonics, and physical-layer wireles
 * **2026:** Manuscript submitted to the International Conference on Emerging Frontiers in Electrical and Electronic Technologies.
 * **2026:** Served as a Research Intern at National Chi Nan University, Taiwan.
 * **2026:** Co-authored a manuscript submitted to *Precision Engineering* (Elsevier).
-* **2026:** Developed and published the Wireless Link Simulator in MATLAB on GitHub.
+
