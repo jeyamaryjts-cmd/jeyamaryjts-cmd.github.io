@@ -21,7 +21,7 @@ My research focuses on antenna design, THz photonics, and physical-layer wireles
 ## 📄 Publications
 
 **Performance Enhancement of Monopole Antenna Operating at 3.27 GHz**  
-*J. T. Sheelarani et al.* (First Author)  
+*Jeyamary T S et al.* (First Author)  
 *Status:* Under review, International Conference on Emerging Frontiers in Electrical and Electronic Technologies (2026).
 
 **Additive Fabrication of Nickel Wire Grid Polarizers by Nanoimprint-Guided Electroforming**  
