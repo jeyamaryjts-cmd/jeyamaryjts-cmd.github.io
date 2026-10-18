@@ -7,16 +7,16 @@ author_profile: true
 
 ## Short Bio
 
-I am a third-year undergraduate student pursuing a B.Eng. degree in Electronics and Communication Engineering at SRM Institute of Science and Technology, India. In 2026, I served as a Research Intern at National Chi Nan University, Taiwan, under the TEEP Programme, advised by Prof. Vincent K.S. Hsiao. 
+I am a third-year Electronics and Communication Engineering undergraduate at SRM Institute of Science and Technology. My research bridges electromagnetic hardware simulation and next-generation wireless theory. I am a first author on a manuscript regarding monopole antenna performance and a co-author on a manuscript regarding THz wire-grid polarizer fabrication (simulated via MEEP). 
 
-My research focuses on antenna design, THz photonics, and physical-layer wireless communications. I am currently a first author on a manuscript regarding monopole antenna performance enhancement and a co-author on a manuscript regarding the additive fabrication of nickel wire-grid polarizers. My work bridges the gap between electromagnetic hardware fabrication (using electroforming and nanoimprint lithography) and software simulation (using MEEP FDTD and MATLAB).
+Currently, I am exploring the following fields with the goal of producing meaningful contributions to next-generation wireless systems.
 
 ## 🔬 Research Interests
 
-*   **Wireless Communication:** Physical-layer reliability, diversity combining, and channel estimation.
-*   **MIMO Systems:** Spatial multiplexing, antenna design, and spatial correlation analysis.
-*   **Integrated Sensing and Communications (ISAC):** Next-generation joint radar-communication systems.
-*   **Electromagnetic Information Theory:** Bridging electromagnetic wave theory with information theory.
+*   Wireless Communication
+*   MIMO Systems
+*   Integrated Sensing and Communications (ISAC)
+*   Electromagnetic Information Theory
 
 ## 📄 Publications
 
