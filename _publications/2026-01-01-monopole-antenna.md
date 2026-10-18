@@ -8,3 +8,5 @@ date: 2026-01-01
 venue: 'International Conference on Emerging Frontiers in Electrical and Electronic Technologies'
 citation: 'Jeyamary T S et al., "Performance Enhancement of Monopole Antenna Operating at 3.27 GHz," under review.'
 ---
+
+This paper is currently **under review** at the International Conference on Emerging Frontiers in Electrical and Electronic Technologies (2026).
